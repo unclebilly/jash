@@ -12,6 +12,7 @@ javascript:(function(){document.body.appendChild(document.createElement('script'
 </pre>
 
 <h1>Building Jash</h1>
+The only prerequisite to building Jash is ruby >= 1.9.x.
 <pre>
 rake build
 </pre>
