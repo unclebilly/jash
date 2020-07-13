@@ -16,6 +16,3 @@ The only prerequisite to building Jash is ruby >= 1.9.x.
 <pre>
 rake build
 </pre>
-
-<h1>More information</h1>
-http://www.billyreisinger.com/jash
